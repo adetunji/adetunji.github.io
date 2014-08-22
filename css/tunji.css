@@ -370,3 +370,12 @@ section h3.section-subheading {
     color: #269abc;
     font-weight: bold;
 }
+#copyright{
+padding: 20px 0 0;
+height: 80px;
+color: #d5d5d5;
+font-weight: bold;
+font-size: 15px;
+line-height: 62px;
+}
+
